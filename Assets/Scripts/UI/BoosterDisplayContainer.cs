@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class BoosterDisplayContainer : MonoBehaviour
 {
-
+    
     [SerializeField]
     private BoosterContainer _boosterContainer;
     
